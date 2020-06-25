@@ -1,2 +1,3 @@
 # DoesNotionSupportMultipleEmails
-Answer the question "Does Notion.so support multiple emails?"
+
+Answers the very basic question "Does Notion.so support multiple emails?"
